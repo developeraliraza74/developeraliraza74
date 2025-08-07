@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | React Student | Crafting Responsive & Engaging UIs<br>Building awesome web experiences with HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap. Proficient in C++ and Python with hands-on projects. Exploring MERN Stack development. 🚀
+Frontend Developer | React Student | Crafting Responsive & Engaging UIs<br>Building awesome web experiences with HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap. Proficient in C++ and Python with hands-on projects. Exploring MERN Stack development. 
 https://developeraliraza.netlify.app
 
 
